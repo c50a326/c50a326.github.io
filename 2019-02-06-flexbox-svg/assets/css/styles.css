@@ -1,0 +1,1 @@
+body,body *{display:flex}aside{background-color:pink;flex-direction:column;flex-grow:1}aside nav,aside section{flex-grow:10}aside img{flex-grow:1;padding-left:3%;padding-right:3%;width:94%}main{background-color:purple;flex-grow:5}
